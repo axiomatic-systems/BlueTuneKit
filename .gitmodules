@@ -1,0 +1,15 @@
+[submodule "BlueTune"]
+	path = BlueTune
+	url = https://barbibulle@github.com/axiomatic-systems/BlueTune.git
+[submodule "Bento4"]
+	path = Bento4
+	url = https://barbibulle@github.com/axiomatic-systems/Bento4.git
+[submodule "Neptune"]
+	path = Neptune
+	url = https://barbibulle@github.com/axiomatic-systems/Neptune.git
+[submodule "Atomix"]
+	path = Atomix
+	url = https://barbibulle@github.com/axiomatic-systems/Atomix.git
+[submodule "Melo"]
+	path = Melo
+	url = https://barbibulle@github.com/axiomatic-systems/Melo.git
