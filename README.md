@@ -6,10 +6,7 @@ BlueTune framework, plugins, and sample applications.
 Each one of those software packages is contained in a directory at the top
 level of the BlueTune Kit distribution.
 
-The file VERSION.txt contains the version information of all the modules
-included in this kit.
-
-The top-level modules are:
+The top-level modules, imported as git submodules, are:
 
 BlueTune
 --------
